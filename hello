@@ -1,0 +1,17 @@
+#!/bin/sh
+echo -e "\n###########################################################################"
+echo -e   "#                                                                         #"
+echo -e   "#                       'A cat and a (h)awk'                              #"
+echo -e   "#                         Greetings badboy!                               #"
+echo -e   "#                        Welcome to level 1601                            #"
+echo -e   "#    I know you are looking for a FLAG and I'll give you some hints.      #"
+echo -e   "#    FLAG is torn in 2 pieces/parts. On part is on/in my_blue_FLAG.       #"
+echo -e   "#    But i dont have it. You can find it on top of the looonng tree.      #"
+echo -e   "#    Another part you will find in the castle's flagroom.                 #"           
+echo -e   "#    There are a lot of them. Yours will be in the fourteenth column      #"
+echo -e   "#    I will give you a cat and a (h)awk. Use them wisely.                 #"
+echo -e   "#    Believe me, they are more useful than they look;) Good luck.         #"
+echo -e   "#                                                                         #"           
+echo -e   "###########################################################################"
+
+sh
